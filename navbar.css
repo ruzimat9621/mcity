@@ -1,9 +1,11 @@
 .navbar {
-    background-color: #ffffffce;
+    background-color: #a9ee2828;
     color: #fff;
-    padding: 10px;
+    padding: 0px;
+    margin-top: 25px;
+    margin-bottom: 1px;
   }
-  
+
   .navbar-brand {
     float: left;
     margin-right: 10px;
@@ -16,7 +18,7 @@
   
   .navbar-search input {
     width: 100%;
-    padding: 5px;
+    padding: 1px;
     border: 1px solid #ccc;
   }
   
@@ -56,7 +58,7 @@
     .navbar-search {
       float: right;
       width: 100%;
-      margin-bottom: 10px;
+      margin-bottom: 1px;
     }
   
     .navbar-nav {
